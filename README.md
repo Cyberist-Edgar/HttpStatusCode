@@ -1,5 +1,8 @@
 # http-statusCode
 常用的Http状态码
+
+你可以访问 [这里](https://httpstatuses.com/) 获取更多的信息
+
 <table xmlns="http://www.w3.org/1999/xhtml" id="table-http-status-codes-1" class="sortable">
     <thead>
         <tr style="cursor: pointer;">
